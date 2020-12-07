@@ -1,1 +1,9 @@
-user1,27:user2,873:user123,2394823
+"user1" : {
+  "score": 0
+}
+"user2" : {
+  "score": 24
+}
+"user3" : {
+  "score": 63
+}
